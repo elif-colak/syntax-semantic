@@ -1,0 +1,15 @@
+int a;
+string c;
+if(a==2)
+{
+	if(a==c)
+	{
+		int d;
+	}
+	
+}
+
+if(c==3)
+{
+
+}

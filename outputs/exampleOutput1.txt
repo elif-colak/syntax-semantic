@@ -1,0 +1,6 @@
+integer variable a is created in line 1
+integer variable c is created in line 2
+There is a comparison in line 3
+There is a comparison in line 5
+integer variable d is created in line 7
+integer variable a is created in line 9
